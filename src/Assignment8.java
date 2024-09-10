@@ -92,7 +92,7 @@ public class Assignment8 {
 
     // this method prints out the menu to a user
     public static void printMenu() {
-        System.out.print("\nCommand Options\n"
+        System.out.print("\nCommand Options\n" //available options
                 + "-----------------------------------\n"
                 + "a: tests whether match is contained in str\n"
                 + "b: computes the sum of the digits of a number\n"
